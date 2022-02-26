@@ -13,7 +13,7 @@ public class sda4 {
         //indexOf(a), indexOf(c), indexOf(q)
         
         System.out.println(nama.indexOf("a"));
-        System.out.println(nama.indexOf("c"));
-        System.out.println(nama.indexOf("q"));
+        System.out.println(nama.indexOf("R"));
+        System.out.println(nama.indexOf("I"));
         }
 }

@@ -12,7 +12,7 @@ public class sda5 {
              System.out.println(var);
         }
 
-        //Soal nomor 4
+        //Soal nomor 5
         //Tentukan hasil yang didapatkan ketika dilakukan perintah berikut ini;
         //remove(0), remove(3), remove(2)
         // System.out.println(nama.remove(0));

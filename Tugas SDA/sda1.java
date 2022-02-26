@@ -1,6 +1,6 @@
 public class sda1{
         public static void main(String[] args) {
-            String[] nama= {"Z","A","R","I"};
+            String[] nama= {"","A","R","I"};
 
             //Soal no 1
             //Tentukan hasil yang didapatkan ketika dilakukan perintah berikut ini:
